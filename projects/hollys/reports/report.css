@@ -46,7 +46,7 @@ tr.total td{background:var(--th);font-weight:700}
 .action-item{display:flex;align-items:flex-start;gap:10px;padding:12px 0;border-bottom:1px solid var(--line2)}
 .action-item:last-child{border-bottom:none}
 .action-tag{flex-shrink:0;padding:3px 10px;border-radius:4px;font-size:11px;font-weight:700}
-.p1{background:var(--p1-bg);color:var(--p1-fg)}.p2{background:var(--p2-bg);color:var(--p2-fg)}
+.p1{background:var(--p1-bg);color:var(--p1-fg)}.p2{background:var(--p2-bg);color:var(--p2-fg)}.p3{background:var(--line2);color:var(--muted)}
 .action-text{font-size:14px;color:var(--td-fg);min-width:0}
 .st-ok{color:var(--ok);font-weight:700}.st-hold{color:var(--hold);font-weight:700}.st-no{color:var(--no);font-weight:700}
 .warn-box{background:var(--warn-bg);border:1px solid var(--warn-line);border-radius:8px;padding:14px 16px;margin:14px 0 0}
